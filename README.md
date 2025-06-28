@@ -1,4 +1,6 @@
-# Stream Loop – MERN App with Chat & Video Call via [GetStream.io](https://getstream.io/)
+# Stream Loop – MERN App with Chat & Video Call via [getStream.io](https://getstream.io/)
+
+## Stream Loop: [Live Demo](https://streamloop-a-real-time-video-calling-and.onrender.com)
 
 **Stream Loop** is a full-stack MERN web application designed to help users learn new languages by connecting and interacting with native speakers — through chatting and video calls powered by **GetStream.io**.
 

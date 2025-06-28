@@ -7,7 +7,6 @@
     "start": "node src/server.js"
   },
   "keywords": [],
-  },
   "author": "",
   "type": "module",
   "license": "ISC",

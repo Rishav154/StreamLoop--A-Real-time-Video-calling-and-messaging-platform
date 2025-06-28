@@ -6,16 +6,8 @@
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "npm run start --prefix backend"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rishav154/StreamLoop--A-Real-time-Video-calling-and-messaging-platform.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Rishav154/StreamLoop--A-Real-time-Video-calling-and-messaging-platform/issues"
-  },
-  "homepage": "https://github.com/Rishav154/StreamLoop--A-Real-time-Video-calling-and-messaging-platform#readme",
   "description": ""
 }
